@@ -1,0 +1,13 @@
+disnake
+colorama
+requests
+schedule
+aiohttp
+boticordpy
+asyncio
+pyfiglet
+psutil
+pymongo
+python-dateutil
+pynacl
+pytz
