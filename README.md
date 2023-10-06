@@ -1,5 +1,8 @@
 ## Dodo Bot
-This code belongs to Nocxel and Dual.
+![Python 3.10](https://img.shields.io/badge/python-3.10-orange)
+
+
+This code belongs to **Nocxel** and **Dufl**.
 
 He created a Dodo bot for discord. This code has moderation, economics, and logs. There is a slash of the command. This code is open and anyone can use it when specifying the author
 
