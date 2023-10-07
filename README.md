@@ -23,4 +23,4 @@ python main.py
 ## Contacts
 To contact the creators of the code: 
 ### Discord - nocxel Telegram: https://t.me/Nocxelll
-### Discord - _deevl
+### Discord - _deevl Telegram: https://t.me/FormixlQ
